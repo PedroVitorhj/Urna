@@ -1,0 +1,51 @@
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\bin\Debug\Urna_Final.exe.config
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\bin\Debug\Urna_Final.exe
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\bin\Debug\Urna_Final.pdb
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.csproj.AssemblyReference.cache
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.FormDepFed.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.FormDepEst.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.Properties.Resources.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.csproj.GenerateResource.cache
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.csproj.CoreCompileInputs.cache
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.exe
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.pdb
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.FormSen.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.FormGov.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.FormPres.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.FormSair.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna_Final\Urna_Final\obj\Debug\Urna_Final.Inicial.resources
+D:\Urna\Urna_Final\bin\Debug\Urna_Final.exe.config
+D:\Urna\Urna_Final\bin\Debug\Urna_Final.exe
+D:\Urna\Urna_Final\bin\Debug\Urna_Final.pdb
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.csproj.AssemblyReference.cache
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.csproj.SuggestedBindingRedirects.cache
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.FormDepFed.resources
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.FormDepEst.resources
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.FormGov.resources
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.FormPres.resources
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.FormSair.resources
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.FormSen.resources
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.Inicial.resources
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.Properties.Resources.resources
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.csproj.GenerateResource.cache
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.csproj.CoreCompileInputs.cache
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.exe
+D:\Urna\Urna_Final\obj\Debug\Urna_Final.pdb
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\bin\Debug\Urna_Final.exe.config
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\bin\Debug\Urna_Final.exe
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\bin\Debug\Urna_Final.pdb
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.csproj.AssemblyReference.cache
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.FormDepFed.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.FormDepEst.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.FormGov.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.FormPres.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.FormSair.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.FormSen.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.Inicial.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.Properties.Resources.resources
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.csproj.GenerateResource.cache
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.csproj.CoreCompileInputs.cache
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.exe
+C:\Users\pv_he\OneDrive\Área de Trabalho\IFSP\2 Semestre\LP2\Urna-master\Urna_Final\obj\Debug\Urna_Final.pdb
